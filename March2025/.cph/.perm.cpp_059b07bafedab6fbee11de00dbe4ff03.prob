@@ -1,0 +1,1 @@
+{"name":"Local: perm","url":"d:\\CompetitiveCoding\\March2025\\perm.cpp","tests":[{"id":1742715372644,"input":"3\n2\n3\n5","output":"2 1\n2 1 3\n2 1 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CompetitiveCoding\\March2025\\perm.cpp","group":"local","local":true}
